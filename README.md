@@ -17,3 +17,9 @@ This repo is for practicing web scraping with some topics below:
     - Using data from zillow.com
     - Using basic pandas command (convert dict to dataframe, reset_index, split colums, drop column, replace, etc)
 
+3. **Web Scraping Stock Price using yfinance**
+    - Using pd.read_html
+    - Clean data
+    - Using yfinance
+    - Visualize data by plotting graph
+    - Create a function for different company
